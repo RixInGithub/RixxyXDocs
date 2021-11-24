@@ -9,3 +9,7 @@ Here, these are scripts. They're easy. You just need to add an extension by a [t
 - [E羊icques](https://sheeptester.github.io/scratch-gui/?extension=https://rixxyx.rixthetyrunt.repl.co/beta.js)
 
 So on, you need to make these two scripts:
+
+![Loading...](https://rixingithub.github.io/RixxyXDocs/scripts/1.svg)
+
+![Loading...](https://rixingithub.github.io/RixxyXDocs/scripts/2.svg)
