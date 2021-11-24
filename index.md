@@ -1,1 +1,1 @@
-These are the docs of RixxyX
+## These are the docs of RixxyX
