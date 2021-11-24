@@ -1,1 +1,1 @@
-## Effects with counter RixxyX reporter 
+## Effects with counter RixxyX reporter
