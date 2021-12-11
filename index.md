@@ -17,3 +17,5 @@ So on, you need to make these two scripts:
 ![Loading...](https://rixingithub.github.io/RixxyXDocs/scripts/2.svg)
 
 So, well... It makes the sprite, whatever it is, colorful, and then back and so on... Also, did you **saw a tick** nearby the **counter** variable? It makes the "variable" shown in the scene, so that you would understand, how the script works. You could enable the tick, if you want to.
+
+Well, most extensions have counters, but this has the best. Because, it has **decrement counter by** and **set counter to** blocks.
